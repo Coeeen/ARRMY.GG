@@ -13,8 +13,8 @@ Aby pobrać i uruchomić aplikację w trybie deweloperskim, należy wykonać pon
 
 ```sh
 # Klonowanie repozytorium
-git clone 
-cd Arrmy
+git clone https://github.com/Coeeen/ARRMY.GG.git
+cd Arrmy 
 
 # Instalacja zależności projektu (Pinia, Vuetify, etc.)
 npm install
