@@ -1,50 +1,24 @@
 # Arrmy
 
-This template should help get you started developing with Vue 3 in Vite.
+Projekt został stworzony przy użyciu **Vue 3** w **Vite** jako bibliotekę komponentów użyłem Vuetify.
+Była to moja pierwsza styczność z tą biblioteką komponentów, na codzień uzywam framework Quasar który ma wbudowaną w siebie bibliotekę.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Uruchomienie Projektu
 
-## Recommended Browser Setup
+Aby pobrać i uruchomić aplikację w trybie deweloperskim, należy wykonać poniższe kroki w terminalu:
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+### Klonowanie i Instalacja
 
 ```sh
+# Klonowanie repozytorium
+git clone 
+cd Arrmy
+
+# Instalacja zależności projektu (Pinia, Vuetify, etc.)
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Kompilacja i uruchomienie
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
